@@ -2,14 +2,17 @@
 
 Paquete básico de entrenamiento de comandos de GIT
 
-Para iniciar con este curso básico lo primero que vamos a hacer es tener nuestras herramientras instaladas
+Para iniciar con este curso básico lo primero que vamos a hacer es tener nuestras herramientras instaladas:
 
 https://gist.github.com/Klerith/90a612344dc2d4e4455ea810fdacbe69
+
 Gracias al autor de esta entrada klerith
 
 Se compartirá un paquete .ZIP con el cual vamos axplorar los principales comandos de GIT. 
 
 Como material adicional, se recomienda entrenar los diferentes comandos en este recurso en linea:
+
+
 https://learngitbranching.js.org/
 
 Como recurso escrito este libro es excelente!
